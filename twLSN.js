@@ -9,6 +9,7 @@ var twLSN = [
 'ibeautystore.my.id',
 'sucitastore.blogspot.com',
 'sucitastore.my.id',
+'shalihahijabku.my.id',
 ];
 
 var redirectUrl = 'http://wa.me/6289644757756';
